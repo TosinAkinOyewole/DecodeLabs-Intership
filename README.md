@@ -74,7 +74,6 @@ Key Results
 Tools Used
 
 · Excel / Google Sheets: Used for all data cleaning, transformation, and calculation steps.
-· [Optional if used] Power Query / OpenRefine: If you used a specific tool for data transformation, mention it here.
 
 How to Use
 
